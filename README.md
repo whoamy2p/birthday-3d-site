@@ -114,7 +114,7 @@ Las contribuciones son bienvenidas. Para cambios significativos, abre un issue p
 
 ## 📄 Licencia
 
-Este proyecto es privado y parte del portfolio de Kriptom.
+Este proyecto es publioc y parte del portfolio de whoamy2p.
 
 ---
 
